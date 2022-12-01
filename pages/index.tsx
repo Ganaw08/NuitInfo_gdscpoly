@@ -12,7 +12,9 @@ const Home: NextPage<{}> = () => {
   return (
     <>
       <Layout>
-        I am the Home Page
+        <div className="bg-black">
+          I am the Home Page
+        </div>
       </Layout>
     </>
   );
