@@ -17,10 +17,9 @@ export default function Layout({
 
     return (
         <div dir={router.locale === "ar" ? "rtl" : "ltr"}>
-            {showHeader && <Header />}
+            {<Header />}
             {children}
-        
-            {showFooter && <Footer />}
+            {<Footer />}
         </div>
     );
 }

@@ -12,10 +12,7 @@ const Home: NextPage<{}> = () => {
   return (
     <>
       <Layout>
-        <Header />
         I am the Home Page
-        <Footer />
-
       </Layout>
     </>
   );
