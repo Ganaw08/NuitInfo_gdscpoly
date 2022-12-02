@@ -10,10 +10,10 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				primary: "#4679A6",
-				"primary-tint": "#4B85B8",
-				secondary: "#1A1A1A",
-				"secondary-tint": "#FBFBFB",
+				primary: "#820000",
+				"primary-tint": "#FF7C7C",
+				secondary: "#B9005B",
+				"secondary-tint": "#FEE0C0",
 				"dark-shade": "#161616",
 				dark: "#7D7D7D",
 				"dark-tint": "#BDBDBD",
