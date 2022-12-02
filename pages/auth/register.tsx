@@ -2,7 +2,8 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 export default function Register(): JSX.Element {
  return (
-     <><div className="container">
+     <>
+     <div className="container">
          <div className="form_area">
              <h4 className="title">Register Now</h4>
              <form>
@@ -26,5 +27,6 @@ export default function Register(): JSX.Element {
              <p id="number" className="invalid">A <b>number</b></p>
              <p id="length" className="invalid">Minimum <b>8 characters</b></p>
          // eslint-disable @next/next/no-sync-scripts, @next/next/no-sync-scripts
-         </div><script src="register.js"></script></>
+         </div><script src="register.js"></script>
+         </>
           )}
