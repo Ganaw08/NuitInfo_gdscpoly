@@ -17,8 +17,8 @@ const Home: NextPage<{}> = () => {
           I am the Home Page
         </div>
       </Layout>
-      {/* <Register/>  */}
-    </>
+     <Register/> 
+     </>
   );
 };
 
